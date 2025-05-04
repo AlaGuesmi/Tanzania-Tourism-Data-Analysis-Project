@@ -19,7 +19,7 @@ This project focuses on analyzing **Tanzania dataset** containing tourism data c
 
 🔍 **Project Workflow**
 
--Data Exploration
+- Data Exploration
 
   Loaded and previewed the dataset:
 
