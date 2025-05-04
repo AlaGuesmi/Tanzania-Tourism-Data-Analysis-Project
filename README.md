@@ -37,17 +37,15 @@ This project focuses on analyzing **Tanzania dataset** containing tourism data c
 
   Used .map(), .replace(), and .apply() functions for feature standardization and transformation
 
-Created subsets like independent travelers (tour_arrangement == 'Independent')
+- Grouped and aggregated data to identify:
 
-Grouped and aggregated data to identify:
+  Most visited countries by expenditure
 
-Most visited countries by expenditure
+  Popular age groups and purposes
 
-Popular age groups and purposes
+  Cost patterns by country, and many other insights
 
-Cost patterns by country**
-
-**Exploratory Data Analysis
+- Exploratory Data Analysis:
 
   Generated value counts for categorical insights
 
@@ -65,7 +63,7 @@ Cost patterns by country**
 
 💾 **Output**
 
-- Visualizations and grouped summaries for presentation and decision support
+- Visualizations and grouped summaries for presentation
 
 📎 **Tools & Libraries**
 
